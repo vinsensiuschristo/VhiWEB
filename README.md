@@ -98,11 +98,7 @@ The answer to the *Problem-Solving and Algorithmic Thinking* task — specifical
 - [`problemSolvingAndAlgoritmicThinking.txt`](./problemSolvingAndAlgoritmicThinking.txt)
 - Or its PDF version: `problemSolvingAndAlgoritmicThinking.pdf`
 
-Other scenario-based responses can be found in:  
-- `scenarioBasedQuestion.txt` or `scenarioBasedQuestion.pdf`
+Answer to the *Softskills And Teamwork* can be found in:  
+- `SoftSkillsAndTeamwork.pdf`
 
 ---
-
-## 📬 Contact
-
-For questions or clarifications, feel free to reach out.

@@ -35,5 +35,5 @@ Some endpoints require authentication with Bearer Token (`Authorization: Bearer 
 
 ## 📄 Additional Notes
 
-The answer to the *Problem-Solving and Algorithmic Thinking* task — specifically about importing large CSV data efficiently and reliably — is documented separately in: problemSolvingAndAlgoritmicThinking.txt
+The answer to the *Problem-Solving and Algorithmic Thinking* task — specifically about importing large CSV data efficiently and reliably — is documented separately in: problemSolvingAndAlgoritmicThinking.txt or problemSolvingAndAlgoritmicThinking.pdf
 
